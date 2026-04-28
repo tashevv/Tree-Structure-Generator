@@ -1,6 +1,6 @@
 # Tree-Structure-Generator
 
-A python script that generates a tree view structure in text with a given path.
+A python script that generates a tree view structure in text from a given path.
 
 tree_generator/\
 └── main.py
